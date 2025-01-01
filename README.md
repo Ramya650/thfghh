@@ -1,0 +1,1 @@
+ It is a full-featured API using Node.js, Express, MongoDB, and JWT Authentication.  We will implement user authentication using JWT and bcryptjs and perform common operations such as user sign-up, sign-in, and password reset. We’ll also dive into protecting routes using middleware and creating CRUD operations for a blog-like post system."
